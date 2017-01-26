@@ -1,1 +1,1 @@
-String movie = 'My favorite movie is Deadpool'
+String movie = 'My favorite movie is Deadpool';
